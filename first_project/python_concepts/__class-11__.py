@@ -30,7 +30,7 @@ div_ = 10 / 2 #division
 expo_ = 3 ** 2 #exponential
 quoc_ = 21 // 2 #quocient (whole division)
 mod_ = 21 % 2 #module (rest)
-abs_ = abs(-4.73) # absolut value
+abs_ = abs(-4.73) #absolut value
 
 print("sum result is: ", sum_)
 print("subtraction result is: ", sub_)
