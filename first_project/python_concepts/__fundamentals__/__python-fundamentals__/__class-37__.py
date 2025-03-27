@@ -12,3 +12,7 @@ for num in range (1000,10000):
         print(raiz)
 print('terminou')
 print('saiu ', num)
+
+
+
+
