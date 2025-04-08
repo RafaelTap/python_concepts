@@ -35,12 +35,12 @@ HERITAGE AND POLYMORPHISM CONCEPTS
 inheritance allows that classes(subclasses) extends attributes and behaviors of origin class
 (superclass). The subclasses can add news attributes and behaviors.
 
--> simple heritage: when a subclass inherits characteristics that exist only in one super class
--> multiple heritage: when a subclass inherits characteristics from two or more superclasses.
+-> simple heritage_and_polymorphism: when a subclass inherits characteristics that exist only in one super class
+-> multiple heritage_and_polymorphism: when a subclass inherits characteristics from two or more superclasses.
 
 Polymorphism is the ability to have the same different behavior in different classes.
 
 -> overload: the many methods with the same name, but different signatures.
--> subtyping: when a subclass can be used as a superclass. It's possible through heritage and
+-> subtyping: when a subclass can be used as a superclass. It's possible through heritage_and_polymorphism and
 method implementation described in superclass for subclass.
 """
