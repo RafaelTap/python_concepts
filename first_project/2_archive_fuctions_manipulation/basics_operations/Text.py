@@ -25,9 +25,9 @@ when we want open a binary archive (image), we add the letter b
 after mode.
 rb, wb, ab.
 
-'r'	open the achive to read (default).
+'r'	open the archive to read (default).
 'w'	open the archive to write, tricked it first.
-'x'	creat the archive to write and fails, if exists.
+'x'	create the archive to write and fails, if exists.
 'a'	open the archive to write adding content to final if it exists.
 'b'	binary mode.
 't'	text mode.
