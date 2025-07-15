@@ -1,4 +1,6 @@
 """
+classes numbers 1,2,3
+
 ALL BASICS ARCHIVE MANIPULATION OPERATIONS
 OPEN;
 READ;
@@ -32,5 +34,18 @@ rb, wb, ab.
 'b'	binary mode.
 't'	text mode.
 '+'open the archive to update (read or write).
+
+class number 4, 5, 6, 7
+
+that are three ways to read a text document:
+.read() -> return all content of an archive as an unic string.
+.readLine() -> return one archive line including \n or \n\r and advance
+the cursor to the next.
+.readlines() -> return a list where each item from list is a archive line.
+
+
+
+
+
 
 """

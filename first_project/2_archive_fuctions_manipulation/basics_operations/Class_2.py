@@ -9,4 +9,8 @@ archive1.write("\nclass about archive functions manipulation")
 print(os.path.relpath(archive1.name))
 print(archive1)
 
+print("archive name ", archive1.name)
+print("archive mode ", archive1.mode)
+print("archive is closed ?", archive1.closed)
+
 archive1.close()
