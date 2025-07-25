@@ -35,7 +35,7 @@ rb, wb, ab.
 't'	text mode.
 '+'open the archive to update (read or write).
 
-class number 4, 5, 6, 7
+class number 4, 5, 6, 7, 8
 
 that are three ways to read a text document:
 .read() -> return all content of an archive as an unic string.
@@ -43,9 +43,5 @@ that are three ways to read a text document:
 the cursor to the next.
 .readlines() -> return a list where each item from list is a archive line.
 
-
-
-
-
-
+.seek() -> 
 """
