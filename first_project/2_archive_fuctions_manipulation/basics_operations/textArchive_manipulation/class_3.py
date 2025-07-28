@@ -1,6 +1,6 @@
 import os
 
-image = open("IMG_6748.JPG", 'wb')
+image = open("../binaryData_manipulation/IMG_6748.JPG", 'wb')
 
 print(os.path.relpath(image.name))
 print(os.path.abspath(image.name))
