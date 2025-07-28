@@ -1,2 +1,0 @@
-data manipulation with  python
-an initial approach

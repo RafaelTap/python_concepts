@@ -1,3 +1,0 @@
-step 1: open
-step 2: read
-step 3: close

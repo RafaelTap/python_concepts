@@ -1,0 +1,4 @@
+Python version: 3.10
+IDE: Eclipse:
+Data base: postgreSQL
+dbms: Dbeaver
