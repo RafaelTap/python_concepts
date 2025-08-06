@@ -1,0 +1,7 @@
+welcome to the data manipulation course with python
+
+here you will learn how to manipulate binary datas,
+
+texts, audios and strings.
+
+Enjoy this moment and make the difference for your life !!
