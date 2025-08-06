@@ -4,7 +4,7 @@
 
 1 - [expressions ...]	list
 2 - x[ ], x[index : index]	index operator
-3 - **	Exponenciation
+3 - **	Exponentiation
 4 - +x, -x	positive and negative sign
 5 - *, /, //, %	Product, division, whole division, rest
 6 - +, -	Sum, subtraction

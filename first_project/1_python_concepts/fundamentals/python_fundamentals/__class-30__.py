@@ -32,7 +32,7 @@ print("List with new element: ", list_)
 #inserting element in a specific position, through index.
 
 list_.insert(2, 11)
-print("New element in a specific postion: ", list_,"\n")
+print("New element in a specific position: ", list_,"\n")
 
 #removing element from the list: the element removed is the first founded inside the list with the same value.
 

@@ -4,11 +4,11 @@ def soma (a,b):
 # using the function to get the sum result
 result = soma (56,53)
 # show the result printing in console
-print("Soma é: ", result)
+print("sum is: ", result)
 
 x = 5
 
-print("numeric type: ", type(x)) # "type" to indicate which type is the variable
+print("numeric type: ", type(x)) # "type" to indicate which type the variable is
 print("numeric type: ", x)
 
 x = "Hello world !"

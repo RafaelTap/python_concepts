@@ -2,7 +2,7 @@
 
 """
 Numeric type: include int, float (floating dot) and complex numbers,
-to make mathematic operations and represents numerics values of any types.
+to make mathematics operations and represents numerics values of any types.
 sequential type: represents string (str), lists(list), tuples(tuple).
 Dictionary type: mappings (dict)
 boolean type: true or false
@@ -37,7 +37,7 @@ print("subtraction result is: ", sub_)
 print("multiplication result is: ", mult_)
 print("division result is: ", div_)
 print("square root is: ", expo_)
-print("quocient is: ", quoc_)
+print("quotient is: ", quoc_)
 print("module (rest) is: ", mod_)
 print("Absolute value: ", abs_)
 

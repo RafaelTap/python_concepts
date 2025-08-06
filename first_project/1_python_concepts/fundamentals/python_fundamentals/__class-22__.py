@@ -5,16 +5,16 @@
 # for
 
 numbers = [1,2,3,4,5]
-soma = 0
+sum_ = 0
 
 for number in numbers:
-    soma += number
+    sum_ += number
 
-print(soma)
+print(sum_)
 
 # the print is into block for
 
-soma_1 = 0
+sum_1 = 0
 for number in numbers:
-    soma_1 += number
-    print(soma_1)
+    sum_1 += number
+    print(sum_1)
