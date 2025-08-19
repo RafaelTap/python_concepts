@@ -3,3 +3,5 @@ class Participant:
         self.name = name
         self.email = email
         self.event_id = event_id
+
+    
